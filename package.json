@@ -1,6 +1,7 @@
 {
   "name": "marketplace",
   "version": "0.1.0",
+  "homepage": "https://An7112.github.io/deploy-shoppy",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
@@ -30,6 +31,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -55,6 +58,7 @@
   "devDependencies": {
     "@types/react-redux": "^7.1.24",
     "@types/redux": "^3.6.0",
-    "@types/redux-thunk": "^2.1.0"
+    "@types/redux-thunk": "^2.1.0",
+    "gh-pages": "^4.0.0"
   }
 }
