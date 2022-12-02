@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/deploy-shoppy/static/css/main.ecc2bdac.css",
+    "main.js": "/deploy-shoppy/static/js/main.4ddc2626.js",
+    "static/js/787.c23b093c.chunk.js": "/deploy-shoppy/static/js/787.c23b093c.chunk.js",
+    "static/media/bg-image.png": "/deploy-shoppy/static/media/bg-image.630a0cf7ff24f1fa620e.png",
+    "static/media/magellan-gradient-dark.png": "/deploy-shoppy/static/media/magellan-gradient-dark.b183a8a9bab61c12e78a.png",
+    "index.html": "/deploy-shoppy/index.html",
+    "main.ecc2bdac.css.map": "/deploy-shoppy/static/css/main.ecc2bdac.css.map",
+    "main.4ddc2626.js.map": "/deploy-shoppy/static/js/main.4ddc2626.js.map",
+    "787.c23b093c.chunk.js.map": "/deploy-shoppy/static/js/787.c23b093c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecc2bdac.css",
+    "static/js/main.4ddc2626.js"
+  ]
+}
